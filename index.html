@@ -81,7 +81,7 @@
 
 					hideEvents();
 					
-					var $events = $( '<div id="custom-content-reveal" class="custom-content-reveal"><h4>' + dateProperties.day + ' ' + dateProperties.monthname + ' , ' + dateProperties.year + '</h4></div>' ),
+					var $events = $( '<div id="custom-content-reveal" class="custom-content-reveal"><h4>' + dateProperties.day + ' ' + dateProperties.monthname + '  ' + dateProperties.year + '</h4></div>' ),
 						$close = $( '<span class="custom-content-close"></span>' ).on( 'click', hideEvents );
 
 					$events.append( $contentEl.html() , $close ).insertAfter( $wrapper );
