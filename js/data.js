@@ -51,7 +51,7 @@ var codropsEvents = {
 	'08-04-2017' : '<span>4ª semana de oficina e encontro</span>',
 	'08-08-2017' : '<span>4ª Formação Continuada</span>',
 	'08-22-2017' : '<span>Formação Temática: Letramento</span>'
-	'08-28-2017' : '<span>Módulo Projeto</span>'
+	'08-28-2017' : '<span>Módulo Projeto</span>',
 	'09-01-2017' : '<span>Encontro Público Cidade Tiradentes e São Miguel Paulista</span>',
 	'09-05-2017' : '<span>5ª Formação Continuada</span>',
 	'09-07-2017' : '<span>Independência do Brasil</span>',
